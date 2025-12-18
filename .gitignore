@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+.gitignore
+*~
+.DS_Store
+*.log
+\#~\#
+.env
